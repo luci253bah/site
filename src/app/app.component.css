@@ -1,0 +1,78 @@
+.{
+    padding: 0;
+    margin: 0;
+}
+.container{
+    border: solid 2px;
+    color:black;
+    width: 996px;
+    height: 616px;
+}
+.banner{
+    border: solid 2px;
+    color:black;
+}
+.botão{
+    border: solid 2px;
+    color: black;
+}
+.texto{
+    border: solid 2px;
+    color: black;
+}
+.video1{
+    border: solid 2px;
+    color: black;
+}
+.video2{
+    border: solid 2px;
+    color: black;
+}
+.video3{
+    border: solid 2px;
+    color: black;
+}
+.video4{
+    border: solid 2px;
+    color: black;
+}
+.button{
+background-color: #4CAF50; /* Green */
+  border: 1px solid green;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  font-size: 16px;
+  cursor: pointer;
+  width: 150px;
+  display: block;
+
+}
+.texto{
+    color:red;
+    text-shadow: 2px 2px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.video1{
+    max-width: 100%;
+    height: auto;
+}
+.video2{
+    max-width: 100%;
+    height: auto;  
+}
+.video3{
+    max-width: 100%;
+    height: auto;
+}
+.video4{
+    max-width: 100%;
+    height: auto;
+}
+.div
+{
+    background: rgba(0, 128, 0, 0.3);
+}
+
+
+
